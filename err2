@@ -1,0 +1,2 @@
+cat: file1.cc: No such file or directory
+ls: cannot access 'nonexisting': No such file or directory

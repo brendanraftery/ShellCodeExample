@@ -1,0 +1,5 @@
+*.o
+shell
+y.tab.*
+lex.yy.*
+.local.git.out
